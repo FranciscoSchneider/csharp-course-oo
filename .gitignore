@@ -377,3 +377,8 @@ FodyWeavers.xsd
 /src/Docway.Charge.Functions/Properties/ServiceDependencies/qa-docway-charge-functions - Zip Deploy/profile.arm.json
 /src/Docway.CareLines.Functions/local.settings.json
 /src/Docway.CareLines.API/appsettings.json
+/Eximia.OO/Exercise/EmployeeRecordV3.cs
+/Eximia.OO/Exercise/EmployeesImporterV2.cs
+/Eximia.OO/Exercise/EmployeesImporterV3.cs
+/Eximia.OO/Exercise/IDataAccessV2.cs
+/Eximia.OO/Exercise/IDataAccessV3.cs
